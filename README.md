@@ -3,7 +3,7 @@ Space Invaders Game
 
 This game was developed in a academic context for the Computer Graphics' subject. The project consisted in creating the Space Invaders game using Javascript and its 3D Library, THREE.js.
 
-
+![Space Invaders](spaceinvaderssnapshot.png)
 
 HOW TO PLAY:
 
